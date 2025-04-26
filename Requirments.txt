@@ -1,0 +1,12 @@
+Required Libraries:
+librosa==0.8.1
+scikit-learn==0.24.2
+tensorflow==2.5.0  # Or you could use pytorch if that's your choice
+numpy==1.19.5
+matplotlib==3.4.2  # For plotting results, if you use it
+pandas==1.2.4  # If you are using data manipulation
+scipy==1.6.3  # Required for some ML models and signal processing
+soundfile==0.10.3.post1  # For reading/writing audio files
+
+
+
